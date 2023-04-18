@@ -1,2 +1,2 @@
 # dio
-Desafios da DIO
+Desafios do Bootcamp de ciência de dados da DIO.
